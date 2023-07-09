@@ -1,13 +1,10 @@
-![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/STATUS-CONCLUÍDO-4cc71e)
 
 # AluraBooks
 
-Home page do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.
+Home page do e-commerce AluraBooks, uma livraria online com livros sobre tecnologia.
 
 ## ✔️ Técnicas e tecnologias utilizadas
-
-**Front-end:**
-
 -   `HTML5`
 -   `CSS3`
 -   `Flexbox CSS`
@@ -31,4 +28,4 @@ O layout do projeto foi retirado do curso de Responsividade com Mobile First da 
 
 ## 🧑🏾‍💻 Autor
 
-[@gabzoomer](https://www.github.com/gabzoomer)
+[@gabzoom](https://www.github.com/gabzoom)
